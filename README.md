@@ -1,1 +1,2 @@
-# js-seguemouse
+# Segue Mouse
+- Projeto desenvolvido na Alura
